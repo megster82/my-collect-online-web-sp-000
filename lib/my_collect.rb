@@ -1,4 +1,4 @@
-names = ["Janet Evans", "Simone Biles", "Michael Phelps"]
+names = ["Janet Evans", "Simone Biles", "Deena Kastor"]
   
 def my_collect(array) 
   i = 0
